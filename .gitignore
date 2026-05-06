@@ -1,0 +1,16 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Variables d'environnement (mots de passe, clés)
+.env
+*.key
+
+# Dossiers générés automatiquement
+node_modules/
+__pycache__/
+*.pyc
+
+# Fichiers temporaires
+*.tmp
+*.log
